@@ -1,4 +1,3 @@
-# OOP-Programming---JAVA---Inheritance-Design-Lab# OOP-Programming---JAVA---Inheritance-Design-Lab
 **Hospital.java:**
 Hospital.java is a tester program which has all calling functions with input.
 **HospitalEmployee.java:**
